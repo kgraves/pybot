@@ -22,7 +22,6 @@ import db
 import confman
 from event import Event
 from util import import_all
-import db
 
 
 DEBUG = False
